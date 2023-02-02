@@ -1,0 +1,44 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name>Inner4</name>
+      <branch_length>0</branch_length>
+      <clade>
+        <name>Inner3</name>
+        <branch_length>0.0033222591362126047</branch_length>
+        <clade>
+          <name>Inner1</name>
+          <branch_length>0.016611295681063135</branch_length>
+          <clade>
+            <name>Nomascus_leucogenys</name>
+            <branch_length>0.001107419712070859</branch_length>
+          </clade>
+          <clade>
+            <name>Hylobates_moloch</name>
+            <branch_length>0.004429678848283478</branch_length>
+          </clade>
+        </clade>
+        <clade>
+          <name>Gorilla_gorilla_gorilla</name>
+          <branch_length>0.006644518272425279</branch_length>
+        </clade>
+      </clade>
+      <clade>
+        <name>Homo_sapiens</name>
+        <branch_length>0.001661129568106337</branch_length>
+      </clade>
+      <clade>
+        <name>Inner2</name>
+        <branch_length>0.003875968992248055</branch_length>
+        <clade>
+          <name>Pan_paniscus</name>
+          <branch_length>0.0011074197120709006</branch_length>
+        </clade>
+        <clade>
+          <name>Pan_troglodytes</name>
+          <branch_length>0.0011074197120709006</branch_length>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
